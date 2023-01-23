@@ -1,0 +1,35 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #abc270;
+}
+
+#about {
+  color: #473c33;
+}
+
+#skill {
+  background-color: #abc270;
+  min-height: 200px;
+}
+
+#project {
+  background-color: #abc270;
+  min-height: 700px;
+}
+
+#contact {
+  min-height: 700px;
+}
+.btn {
+  background-color: #abc270;
+  color: #ffffe8;
+}
+
+footer {
+  background-color: #abc270;
+  color: #ffffe8;
+}
+
+footer ul {
+  display: inline-block;
+}
